@@ -1,16 +1,31 @@
+songlist{
+  display: flex;
+  flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
 song{
-     color: white;
-     background-color : gray;
-     width: 100%;
      display: block;
+     border: 1px solid black;
+     margin: 10px;
+     padding: 10px;
+     width: 50%;
+     background-color: yellowgreen;
 }
-title
-{
-     color: green;
-     font-size : 40px;
-     background-color : powderblue;
+
+artist{
+  border: 1px solid black;
+  padding: 2px;
 }
-artists, title, genres, publish_date
-{
-     display : block;
+
+title, artists, genres, publish_date{
+    display: block;
+    text-align: center;
+}
+
+title {
+  font-weight: bold;
+  padding: 5px;
 }
