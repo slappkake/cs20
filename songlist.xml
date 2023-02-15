@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
+<?xml-stylesheet type="text/css" href="songstyle.css"?>
 <songlist>
     <song>
         <title>Lose Sight of You II</title>
@@ -8,7 +8,7 @@
         </artists>
         <genres>
             <genre>Indie</genre>
-            <genre>Pop Punk</genre>
+            <genre>Pop-Punk</genre>
         </genres>
         <publish_date>July 15 2013</publish_date>
     </song>
@@ -19,7 +19,7 @@
         </artists>
         <genres>
             <genre>Indie</genre>
-            <genre>Pop Punk</genre>        
+            <genre>Pop-Punk</genre>        
         </genres>
         <publish_date>October 30 2015</publish_date>
     </song>
